@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MusicAppUI</string>
+    <string name="let_s_you_in">Let\'s you in</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="or">or</string>
+    <string name="sign_in_with_password">Sign in with password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="listen_to_the_best">Listen to the best</string>
+    <string name="music_everyday">music everyday</string>
+    <string name="with">with</string>
+    <string name="hearme">Hearme</string>
+    <string name="now">now!</string>
+    <string name="get_started">Get Started</string>
+</resources>
